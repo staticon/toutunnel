@@ -1,0 +1,1 @@
+Tunnels TCP data over UDP packets. Previous was called udptunnel. Renamed because of another udptunnel project on the internet.
